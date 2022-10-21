@@ -1,4 +1,3 @@
 # HAcktoberfest.DIEMS
-#HACKTOBERFEST.DIEMS
-#Best Of Luck
-Did my first PR
+=======Today is Friday
+Happy diwali
